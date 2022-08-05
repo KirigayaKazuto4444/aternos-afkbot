@@ -1,5 +1,5 @@
 {
-	"ip":"YOUR_ATERNOS_SERVER_IP",
-	"port": "YOUR_ATERNOS_SERVER_PORT",
-	"name": "BOT_NAME"
+	"ip":"serverncct1234.aternos.me:30899",
+	"port": "30899",
+	"name": "afkforserver1"
 }
